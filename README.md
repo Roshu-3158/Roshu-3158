@@ -45,10 +45,10 @@
 
 ---
 
-## 🗓️ Contribution Activity
+## 🗓️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=Roshu-3158&bg=transparent&radius=10&color=00ffee" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshu-3158&theme=react-dark&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true" alt="Roshu's Contribution Graph"/>
 </p>
 
 ---
