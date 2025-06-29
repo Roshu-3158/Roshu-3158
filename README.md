@@ -79,7 +79,7 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE 
 
 <div align="center">
 <picture>
@@ -88,7 +88,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
+-->
 
 
 
